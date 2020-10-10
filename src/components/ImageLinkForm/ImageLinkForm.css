@@ -1,0 +1,8 @@
+.form {
+  width: 700px;
+  background: linear-gradient(
+    224deg,
+    rgba(10, 28, 92, 0.58),
+    rgba(190, 140, 252, 0.7)
+  );
+}
