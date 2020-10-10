@@ -1,5 +1,5 @@
 
-[Smart API Brain App]https://smart-api-brain.herokuapp.com/
+[Smart API Brain App](https://smart-api-brain.herokuapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
